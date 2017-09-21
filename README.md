@@ -5,6 +5,8 @@ A graphical view of some of the important work done in the domain of general pur
 
 The following links will help you further explore this tool.
 
-How to add to the knowledge base
-How to navigate the knowledge base
-Developer notes
+[How to navigate the knowledge base](docs/navigate.md)
+
+[How to add to the knowledge base](docs/add.md)
+
+[Developer notes](docs/developer.md)
