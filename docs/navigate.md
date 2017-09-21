@@ -4,9 +4,8 @@ The graph has the following 4 types of nodes:
 of a field, with the objective
 of further building up on them. There is no attempt to attach any formalism to the usage of the word concept.
 The intention is to capture the common vocabulary of the field. The graph connects concepts to publications
-in which they were introduced for the first time, grounding into real space and time, concepts which are other
-wise very abstract. Concepts are also connected to publications that rely on them. This very naturally provides
-us an indication of how existing concepts are combined to form new ones.
+in which they were introduced for the first time, grounding into real space and time, concepts which are otherwise very abstract. Concepts are also connected to publications that rely on them. This very naturally provides
+us an indication of which existing concepts were combined to form new ones.
 
 2. **Publication**: The second major function of the graph is to help shortlist the publications one needs to
 review. Hence, the concepts point directly to their source.
